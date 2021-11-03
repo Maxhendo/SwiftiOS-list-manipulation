@@ -3,4 +3,4 @@ This project was built to reduce list size based on qualifying criteria such as 
 Unlike a phone contact list where a user has a target in mind. This code presents options depending on users preference. 
 The lesson learned was manipulation of a list’s content. 
 
-![iPhone 11 similator of list categories](Simulator - iPhone 11 - list types.png)
+![iPhone 11 similator of list categories](SimulatorShots/SimulatorShot2-iPhone11.png)
